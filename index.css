@@ -1,0 +1,12 @@
+.buttons-div > button{
+    background-color: rgba(196, 137, 140, 0.4);
+    font-family: 'Roboto',serif;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin: 20px;
+    font-weight: 300;
+    outline: none;
+}
+
